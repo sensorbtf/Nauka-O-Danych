@@ -9,7 +9,6 @@ from plotnine import *
 file_path = "C:\\Users\\Sensorbtf\\OneDrive\\studia\\Magisterka\\Dane\\IHME_GBD_2019_SMOKING_AGE_1990_2019_INIT_AGE_Y2021M05D27.CSV"
 data = pd.read_csv(file_path)
 
-
 # 1. Wykres Liniowy (Line Plot)
 years = data['year_id']
 values = data['val']

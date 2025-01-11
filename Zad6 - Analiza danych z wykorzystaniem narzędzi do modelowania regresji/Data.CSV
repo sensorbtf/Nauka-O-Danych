@@ -1,0 +1,425 @@
+measure_name,location_id,location_name,sex_id,sex_name,age_group_name,age_group_name,year_id,val,upper,lower
+Mean Age of Initiation,1,Global,1,Male,284,20 to 54 years,2019,19.18385329,19.34186504,19.03367294
+Mean Age of Initiation,1,Global,2,Female,284,20 to 54 years,2019,19.59291151,19.81561713,19.38603713
+Mean Age of Initiation,4,"Southeast Asia, East Asia, and Oceania",1,Male,284,20 to 54 years,2019,19.92075178,20.21462293,19.6489928
+Mean Age of Initiation,4,"Southeast Asia, East Asia, and Oceania",2,Female,284,20 to 54 years,2019,23.71258122,24.44113368,23.05357687
+Mean Age of Initiation,6,China,1,Male,284,20 to 54 years,2019,20.51647815,20.94382324,20.12255834
+Mean Age of Initiation,6,China,2,Female,284,20 to 54 years,2019,24.89250606,26.02735473,23.79289805
+Mean Age of Initiation,7,Democratic People's Republic of Korea,1,Male,284,20 to 54 years,2019,20.56645978,21.04239337,20.08207191
+Mean Age of Initiation,7,Democratic People's Republic of Korea,2,Female,284,20 to 54 years,2019,24.71717156,25.9083566,23.63702039
+Mean Age of Initiation,8,Taiwan (Province of China),1,Male,284,20 to 54 years,2019,20.63234349,21.14079862,20.13214173
+Mean Age of Initiation,8,Taiwan (Province of China),2,Female,284,20 to 54 years,2019,23.80311896,24.7313929,22.9419605
+Mean Age of Initiation,10,Cambodia,1,Male,284,20 to 54 years,2019,19.44691948,19.85161937,19.05126026
+Mean Age of Initiation,10,Cambodia,2,Female,284,20 to 54 years,2019,22.15791313,23.29781337,21.10389444
+Mean Age of Initiation,11,Indonesia,1,Male,284,20 to 54 years,2019,18.34609228,18.72814327,17.93320062
+Mean Age of Initiation,11,Indonesia,2,Female,284,20 to 54 years,2019,20.80382236,21.62311127,19.93021271
+Mean Age of Initiation,12,Lao People's Democratic Republic,1,Male,284,20 to 54 years,2019,18.55981436,19.0321846,18.14066571
+Mean Age of Initiation,12,Lao People's Democratic Republic,2,Female,284,20 to 54 years,2019,22.04900663,23.02666606,21.14742212
+Mean Age of Initiation,13,Malaysia,1,Male,284,20 to 54 years,2019,18.35020099,18.67828291,18.0043597
+Mean Age of Initiation,13,Malaysia,2,Female,284,20 to 54 years,2019,21.07774662,22.1035332,20.04615197
+Mean Age of Initiation,14,Maldives,1,Male,284,20 to 54 years,2019,18.53535969,19.03533226,18.08919965
+Mean Age of Initiation,14,Maldives,2,Female,284,20 to 54 years,2019,22.25630675,23.20306532,21.32268242
+Mean Age of Initiation,15,Myanmar,1,Male,284,20 to 54 years,2019,18.53962121,18.99359282,18.09565816
+Mean Age of Initiation,15,Myanmar,2,Female,284,20 to 54 years,2019,23.42460081,24.42693243,22.4368359
+Mean Age of Initiation,16,Philippines,1,Male,284,20 to 54 years,2019,17.89834552,18.25787096,17.55971192
+Mean Age of Initiation,16,Philippines,2,Female,284,20 to 54 years,2019,22.8676066,23.75521981,21.91019956
+Mean Age of Initiation,17,Sri Lanka,1,Male,284,20 to 54 years,2019,18.65824735,19.07835723,18.24719676
+Mean Age of Initiation,17,Sri Lanka,2,Female,284,20 to 54 years,2019,21.69882399,22.67763702,20.68405155
+Mean Age of Initiation,18,Thailand,1,Male,284,20 to 54 years,2019,18.18994678,18.51925503,17.86966532
+Mean Age of Initiation,18,Thailand,2,Female,284,20 to 54 years,2019,21.30369796,22.23073887,20.47872777
+Mean Age of Initiation,19,Timor-Leste,1,Male,284,20 to 54 years,2019,18.35613836,18.82235828,17.90567097
+Mean Age of Initiation,19,Timor-Leste,2,Female,284,20 to 54 years,2019,22.08667026,23.04941277,21.17934674
+Mean Age of Initiation,20,Viet Nam,1,Male,284,20 to 54 years,2019,19.53475245,19.92353827,19.16534773
+Mean Age of Initiation,20,Viet Nam,2,Female,284,20 to 54 years,2019,23.0933803,24.01889293,22.13794186
+Mean Age of Initiation,22,Fiji,1,Male,284,20 to 54 years,2019,19.53326733,19.98339911,19.07029287
+Mean Age of Initiation,22,Fiji,2,Female,284,20 to 54 years,2019,20.34105997,21.04127909,19.57244728
+Mean Age of Initiation,23,Kiribati,1,Male,284,20 to 54 years,2019,17.74973868,18.14367622,17.36581399
+Mean Age of Initiation,23,Kiribati,2,Female,284,20 to 54 years,2019,19.92208225,20.58428673,19.26593036
+Mean Age of Initiation,24,Marshall Islands,1,Male,284,20 to 54 years,2019,18.6441874,19.0967288,18.19961876
+Mean Age of Initiation,24,Marshall Islands,2,Female,284,20 to 54 years,2019,19.21401197,20.01350662,18.46911127
+Mean Age of Initiation,25,Micronesia (Federated States of),1,Male,284,20 to 54 years,2019,18.6819554,19.12483094,18.22993739
+Mean Age of Initiation,25,Micronesia (Federated States of),2,Female,284,20 to 54 years,2019,19.11183677,19.78789081,18.43245921
+Mean Age of Initiation,26,Papua New Guinea,1,Male,284,20 to 54 years,2019,18.55176994,19.02687986,18.07980833
+Mean Age of Initiation,26,Papua New Guinea,2,Female,284,20 to 54 years,2019,18.97755466,19.6878737,18.31531126
+Mean Age of Initiation,27,Samoa,1,Male,284,20 to 54 years,2019,18.81610484,19.26371297,18.40505295
+Mean Age of Initiation,27,Samoa,2,Female,284,20 to 54 years,2019,19.23274055,19.89947131,18.56009181
+Mean Age of Initiation,28,Solomon Islands,1,Male,284,20 to 54 years,2019,18.63733794,19.09805856,18.22310157
+Mean Age of Initiation,28,Solomon Islands,2,Female,284,20 to 54 years,2019,18.86880227,19.57805811,18.21101627
+Mean Age of Initiation,29,Tonga,1,Male,284,20 to 54 years,2019,18.21222492,18.64469998,17.80442372
+Mean Age of Initiation,29,Tonga,2,Female,284,20 to 54 years,2019,20.9866281,21.74996747,20.22678122
+Mean Age of Initiation,30,Vanuatu,1,Male,284,20 to 54 years,2019,19.99391726,20.46367693,19.54538655
+Mean Age of Initiation,30,Vanuatu,2,Female,284,20 to 54 years,2019,18.33764491,19.11233702,17.57506505
+Mean Age of Initiation,31,"Central Europe, Eastern Europe, and Central Asia",1,Male,284,20 to 54 years,2019,17.1290293,17.26655892,16.9965467
+Mean Age of Initiation,31,"Central Europe, Eastern Europe, and Central Asia",2,Female,284,20 to 54 years,2019,18.98272196,19.15694867,18.80836686
+Mean Age of Initiation,33,Armenia,1,Male,284,20 to 54 years,2019,17.34741331,17.68211455,17.00857389
+Mean Age of Initiation,33,Armenia,2,Female,284,20 to 54 years,2019,25.00327771,25.99604531,24.06648494
+Mean Age of Initiation,34,Azerbaijan,1,Male,284,20 to 54 years,2019,17.59833701,17.97507368,17.21817125
+Mean Age of Initiation,34,Azerbaijan,2,Female,284,20 to 54 years,2019,21.0574306,22.01874035,20.1597985
+Mean Age of Initiation,35,Georgia,1,Male,284,20 to 54 years,2019,18.12629994,18.48332042,17.7789339
+Mean Age of Initiation,35,Georgia,2,Female,284,20 to 54 years,2019,22.10761911,22.88914803,21.34863083
+Mean Age of Initiation,36,Kazakhstan,1,Male,284,20 to 54 years,2019,16.99625958,17.37222541,16.63037742
+Mean Age of Initiation,36,Kazakhstan,2,Female,284,20 to 54 years,2019,19.58945107,20.3211669,18.88499846
+Mean Age of Initiation,37,Kyrgyzstan,1,Male,284,20 to 54 years,2019,18.14411353,18.54923364,17.77631555
+Mean Age of Initiation,37,Kyrgyzstan,2,Female,284,20 to 54 years,2019,19.32401711,19.90771982,18.75662358
+Mean Age of Initiation,38,Mongolia,1,Male,284,20 to 54 years,2019,19.00362097,19.41977202,18.58917771
+Mean Age of Initiation,38,Mongolia,2,Female,284,20 to 54 years,2019,24.57704597,25.63860423,23.63402853
+Mean Age of Initiation,39,Tajikistan,1,Male,284,20 to 54 years,2019,17.92621498,18.3518322,17.49959392
+Mean Age of Initiation,39,Tajikistan,2,Female,284,20 to 54 years,2019,21.27420214,22.32256917,20.27091884
+Mean Age of Initiation,40,Turkmenistan,1,Male,284,20 to 54 years,2019,17.91952675,18.33785421,17.46950852
+Mean Age of Initiation,40,Turkmenistan,2,Female,284,20 to 54 years,2019,21.74917411,22.7097025,20.81432784
+Mean Age of Initiation,41,Uzbekistan,1,Male,284,20 to 54 years,2019,18.02816637,18.49116692,17.60501533
+Mean Age of Initiation,41,Uzbekistan,2,Female,284,20 to 54 years,2019,21.39459573,22.43704445,20.38387285
+Mean Age of Initiation,43,Albania,1,Male,284,20 to 54 years,2019,19.15455597,19.54972166,18.76794509
+Mean Age of Initiation,43,Albania,2,Female,284,20 to 54 years,2019,22.54188918,23.56817025,21.63263149
+Mean Age of Initiation,44,Bosnia and Herzegovina,1,Male,284,20 to 54 years,2019,17.91541624,18.34561639,17.48599864
+Mean Age of Initiation,44,Bosnia and Herzegovina,2,Female,284,20 to 54 years,2019,18.94434518,19.60222612,18.35067789
+Mean Age of Initiation,45,Bulgaria,1,Male,284,20 to 54 years,2019,17.46865501,17.75622652,17.16390082
+Mean Age of Initiation,45,Bulgaria,2,Female,284,20 to 54 years,2019,18.85870213,19.26731948,18.46533471
+Mean Age of Initiation,46,Croatia,1,Male,284,20 to 54 years,2019,17.86099529,18.19260365,17.51644352
+Mean Age of Initiation,46,Croatia,2,Female,284,20 to 54 years,2019,18.30998175,18.75558046,17.89940828
+Mean Age of Initiation,47,Czechia,1,Male,284,20 to 54 years,2019,17.56767841,17.86542382,17.26858504
+Mean Age of Initiation,47,Czechia,2,Female,284,20 to 54 years,2019,18.16124984,18.54062789,17.79458672
+Mean Age of Initiation,48,Hungary,1,Male,284,20 to 54 years,2019,16.99364682,17.31073902,16.69736573
+Mean Age of Initiation,48,Hungary,2,Female,284,20 to 54 years,2019,17.80532573,18.33542811,17.33785648
+Mean Age of Initiation,49,North Macedonia,1,Male,284,20 to 54 years,2019,17.84321056,18.25922526,17.41042133
+Mean Age of Initiation,49,North Macedonia,2,Female,284,20 to 54 years,2019,18.82594135,19.41620996,18.26211171
+Mean Age of Initiation,50,Montenegro,1,Male,284,20 to 54 years,2019,17.92055568,18.34261344,17.49797125
+Mean Age of Initiation,50,Montenegro,2,Female,284,20 to 54 years,2019,19.06168332,19.71481831,18.45815819
+Mean Age of Initiation,51,Poland,1,Male,284,20 to 54 years,2019,18.23074003,18.5211457,17.93380596
+Mean Age of Initiation,51,Poland,2,Female,284,20 to 54 years,2019,19.17895174,19.57257923,18.77209875
+Mean Age of Initiation,52,Romania,1,Male,284,20 to 54 years,2019,18.0478454,18.36778327,17.72818912
+Mean Age of Initiation,52,Romania,2,Female,284,20 to 54 years,2019,19.68093965,20.07968999,19.25152531
+Mean Age of Initiation,53,Serbia,1,Male,284,20 to 54 years,2019,17.90242555,18.3268016,17.49247231
+Mean Age of Initiation,53,Serbia,2,Female,284,20 to 54 years,2019,18.92972503,19.5629898,18.33631002
+Mean Age of Initiation,54,Slovakia,1,Male,284,20 to 54 years,2019,17.60349093,17.92965972,17.28580596
+Mean Age of Initiation,54,Slovakia,2,Female,284,20 to 54 years,2019,18.1867509,18.62967743,17.70790738
+Mean Age of Initiation,55,Slovenia,1,Male,284,20 to 54 years,2019,17.99247127,18.36541231,17.63480808
+Mean Age of Initiation,55,Slovenia,2,Female,284,20 to 54 years,2019,18.73648925,19.21076533,18.25299612
+Mean Age of Initiation,57,Belarus,1,Male,284,20 to 54 years,2019,15.63314918,15.96527926,15.28252954
+Mean Age of Initiation,57,Belarus,2,Female,284,20 to 54 years,2019,18.39641241,19.01827402,17.83862824
+Mean Age of Initiation,58,Estonia,1,Male,284,20 to 54 years,2019,17.00635003,17.3633985,16.67079017
+Mean Age of Initiation,58,Estonia,2,Female,284,20 to 54 years,2019,19.08052764,19.61026615,18.575961
+Mean Age of Initiation,59,Latvia,1,Male,284,20 to 54 years,2019,17.14089885,17.45439624,16.83251799
+Mean Age of Initiation,59,Latvia,2,Female,284,20 to 54 years,2019,20.21032626,20.73272068,19.69876598
+Mean Age of Initiation,60,Lithuania,1,Male,284,20 to 54 years,2019,17.8099797,18.17127992,17.44135269
+Mean Age of Initiation,60,Lithuania,2,Female,284,20 to 54 years,2019,20.43644555,20.99636785,19.90031153
+Mean Age of Initiation,61,Republic of Moldova,1,Male,284,20 to 54 years,2019,16.55260131,16.87519006,16.241122
+Mean Age of Initiation,61,Republic of Moldova,2,Female,284,20 to 54 years,2019,19.94661339,20.56415363,19.35237292
+Mean Age of Initiation,62,Russian Federation,1,Male,284,20 to 54 years,2019,16.6093666,16.92688604,16.31986473
+Mean Age of Initiation,62,Russian Federation,2,Female,284,20 to 54 years,2019,18.597562,18.97524001,18.23033762
+Mean Age of Initiation,63,Ukraine,1,Male,284,20 to 54 years,2019,16.55800365,16.89620097,16.20584207
+Mean Age of Initiation,63,Ukraine,2,Female,284,20 to 54 years,2019,19.44894683,20.04988794,18.87414479
+Mean Age of Initiation,64,High-income,1,Male,284,20 to 54 years,2019,16.975358,17.08576883,16.86521941
+Mean Age of Initiation,64,High-income,2,Female,284,20 to 54 years,2019,17.24122083,17.38695305,17.1103168
+Mean Age of Initiation,66,Brunei Darussalam,1,Male,284,20 to 54 years,2019,16.84361037,17.27469998,16.44042972
+Mean Age of Initiation,66,Brunei Darussalam,2,Female,284,20 to 54 years,2019,17.10369213,17.76822193,16.47658253
+Mean Age of Initiation,67,Japan,1,Male,284,20 to 54 years,2019,16.9799235,17.43372757,16.58881207
+Mean Age of Initiation,67,Japan,2,Female,284,20 to 54 years,2019,17.23492016,17.80726547,16.71387499
+Mean Age of Initiation,68,Republic of Korea,1,Male,284,20 to 54 years,2019,16.94332507,17.31961961,16.56759229
+Mean Age of Initiation,68,Republic of Korea,2,Female,284,20 to 54 years,2019,17.0021457,17.62475793,16.36581212
+Mean Age of Initiation,69,Singapore,1,Male,284,20 to 54 years,2019,16.9760518,17.39587337,16.57033504
+Mean Age of Initiation,69,Singapore,2,Female,284,20 to 54 years,2019,17.12110325,17.70965899,16.52153603
+Mean Age of Initiation,71,Australia,1,Male,284,20 to 54 years,2019,16.87443265,17.27813928,16.45483829
+Mean Age of Initiation,71,Australia,2,Female,284,20 to 54 years,2019,17.09120933,17.6430879,16.54896737
+Mean Age of Initiation,72,New Zealand,1,Male,284,20 to 54 years,2019,16.84556571,17.24125835,16.45531965
+Mean Age of Initiation,72,New Zealand,2,Female,284,20 to 54 years,2019,17.0934955,17.66029372,16.59327959
+Mean Age of Initiation,74,Andorra,1,Male,284,20 to 54 years,2019,16.8805667,17.28851035,16.49522124
+Mean Age of Initiation,74,Andorra,2,Female,284,20 to 54 years,2019,17.09003366,17.64736454,16.49299709
+Mean Age of Initiation,75,Austria,1,Male,284,20 to 54 years,2019,16.70003547,16.9805808,16.43445052
+Mean Age of Initiation,75,Austria,2,Female,284,20 to 54 years,2019,17.13256215,17.51745822,16.75166775
+Mean Age of Initiation,76,Belgium,1,Male,284,20 to 54 years,2019,16.62148555,16.93793366,16.31266228
+Mean Age of Initiation,76,Belgium,2,Female,284,20 to 54 years,2019,16.74584313,17.16830418,16.33754866
+Mean Age of Initiation,77,Cyprus,1,Male,284,20 to 54 years,2019,17.5884473,17.9390779,17.23927309
+Mean Age of Initiation,77,Cyprus,2,Female,284,20 to 54 years,2019,17.75521544,18.35462581,17.18645663
+Mean Age of Initiation,78,Denmark,1,Male,284,20 to 54 years,2019,16.50103497,16.86948855,16.18184454
+Mean Age of Initiation,78,Denmark,2,Female,284,20 to 54 years,2019,16.36074646,16.80558361,15.94495194
+Mean Age of Initiation,79,Finland,1,Male,284,20 to 54 years,2019,16.57830262,16.90989538,16.23805023
+Mean Age of Initiation,79,Finland,2,Female,284,20 to 54 years,2019,16.64050996,17.07123983,16.23476034
+Mean Age of Initiation,80,France,1,Male,284,20 to 54 years,2019,16.92456967,17.27441715,16.61325946
+Mean Age of Initiation,80,France,2,Female,284,20 to 54 years,2019,17.29158372,17.77242903,16.86973884
+Mean Age of Initiation,81,Germany,1,Male,284,20 to 54 years,2019,16.79077692,17.09564154,16.50044643
+Mean Age of Initiation,81,Germany,2,Female,284,20 to 54 years,2019,17.05881152,17.45203134,16.66617843
+Mean Age of Initiation,82,Greece,1,Male,284,20 to 54 years,2019,17.69467375,17.96898918,17.42749686
+Mean Age of Initiation,82,Greece,2,Female,284,20 to 54 years,2019,19.35601495,19.75184085,18.96770287
+Mean Age of Initiation,83,Iceland,1,Male,284,20 to 54 years,2019,16.80611529,17.24149042,16.44645935
+Mean Age of Initiation,83,Iceland,2,Female,284,20 to 54 years,2019,16.93294027,17.48652834,16.38885929
+Mean Age of Initiation,84,Ireland,1,Male,284,20 to 54 years,2019,16.84374237,17.18550755,16.54442217
+Mean Age of Initiation,84,Ireland,2,Female,284,20 to 54 years,2019,16.5851884,16.94724914,16.19185454
+Mean Age of Initiation,85,Israel,1,Male,284,20 to 54 years,2019,16.77376466,17.17933161,16.39510304
+Mean Age of Initiation,85,Israel,2,Female,284,20 to 54 years,2019,16.91819035,17.44291501,16.36000657
+Mean Age of Initiation,86,Italy,1,Male,284,20 to 54 years,2019,16.74460052,17.03974142,16.45556429
+Mean Age of Initiation,86,Italy,2,Female,284,20 to 54 years,2019,17.26572669,17.71998723,16.84607714
+Mean Age of Initiation,87,Luxembourg,1,Male,284,20 to 54 years,2019,17.33794638,17.72917466,16.97586369
+Mean Age of Initiation,87,Luxembourg,2,Female,284,20 to 54 years,2019,17.03959721,17.55612195,16.54809562
+Mean Age of Initiation,88,Malta,1,Male,284,20 to 54 years,2019,16.71282599,17.12742162,16.32189247
+Mean Age of Initiation,88,Malta,2,Female,284,20 to 54 years,2019,16.80415118,17.32906847,16.28595983
+Mean Age of Initiation,89,Netherlands,1,Male,284,20 to 54 years,2019,17.09484582,17.44001119,16.76903938
+Mean Age of Initiation,89,Netherlands,2,Female,284,20 to 54 years,2019,16.19758291,16.60689532,15.76318771
+Mean Age of Initiation,90,Norway,1,Male,284,20 to 54 years,2019,16.84996777,17.24516314,16.4496997
+Mean Age of Initiation,90,Norway,2,Female,284,20 to 54 years,2019,16.99383796,17.56094698,16.39771643
+Mean Age of Initiation,91,Portugal,1,Male,284,20 to 54 years,2019,16.83212334,17.13283535,16.53132289
+Mean Age of Initiation,91,Portugal,2,Female,284,20 to 54 years,2019,17.31176806,17.78440801,16.84458619
+Mean Age of Initiation,92,Spain,1,Male,284,20 to 54 years,2019,16.91817504,17.2091602,16.6239983
+Mean Age of Initiation,92,Spain,2,Female,284,20 to 54 years,2019,16.97423083,17.3116824,16.63184692
+Mean Age of Initiation,93,Sweden,1,Male,284,20 to 54 years,2019,17.20068242,17.54390439,16.83788662
+Mean Age of Initiation,93,Sweden,2,Female,284,20 to 54 years,2019,16.25496409,16.71129061,15.80259161
+Mean Age of Initiation,94,Switzerland,1,Male,284,20 to 54 years,2019,16.81803139,17.20486403,16.41169379
+Mean Age of Initiation,94,Switzerland,2,Female,284,20 to 54 years,2019,17.01589496,17.54648863,16.50061271
+Mean Age of Initiation,95,United Kingdom,1,Male,284,20 to 54 years,2019,16.71802032,16.98013349,16.45390306
+Mean Age of Initiation,95,United Kingdom,2,Female,284,20 to 54 years,2019,16.66846607,17.03422603,16.31078501
+Mean Age of Initiation,97,Argentina,1,Male,284,20 to 54 years,2019,16.57267121,16.87247021,16.26941989
+Mean Age of Initiation,97,Argentina,2,Female,284,20 to 54 years,2019,17.29549873,17.76735601,16.87363666
+Mean Age of Initiation,98,Chile,1,Male,284,20 to 54 years,2019,16.63853451,17.03807905,16.25737399
+Mean Age of Initiation,98,Chile,2,Female,284,20 to 54 years,2019,17.41632114,17.97068718,16.88303921
+Mean Age of Initiation,99,Uruguay,1,Male,284,20 to 54 years,2019,16.83940578,17.19659998,16.50765986
+Mean Age of Initiation,99,Uruguay,2,Female,284,20 to 54 years,2019,17.5919363,18.11966659,17.0916031
+Mean Age of Initiation,101,Canada,1,Male,284,20 to 54 years,2019,17.31377606,17.72008729,16.90558598
+Mean Age of Initiation,101,Canada,2,Female,284,20 to 54 years,2019,17.53693893,18.147247,16.95480842
+Mean Age of Initiation,102,United States of America,1,Male,284,20 to 54 years,2019,17.31500946,17.63045188,17.00949779
+Mean Age of Initiation,102,United States of America,2,Female,284,20 to 54 years,2019,17.47354467,17.85987544,17.08196477
+Mean Age of Initiation,103,Latin America and Caribbean,1,Male,284,20 to 54 years,2019,17.22910637,17.3707987,17.09573272
+Mean Age of Initiation,103,Latin America and Caribbean,2,Female,284,20 to 54 years,2019,18.59036388,18.81561426,18.35188329
+Mean Age of Initiation,105,Antigua and Barbuda,1,Male,284,20 to 54 years,2019,18.40030161,18.85955912,17.97295695
+Mean Age of Initiation,105,Antigua and Barbuda,2,Female,284,20 to 54 years,2019,19.42062327,20.05276878,18.7997415
+Mean Age of Initiation,106,Bahamas,1,Male,284,20 to 54 years,2019,18.36073299,18.80232287,17.93042283
+Mean Age of Initiation,106,Bahamas,2,Female,284,20 to 54 years,2019,19.36014822,19.98980987,18.71900529
+Mean Age of Initiation,107,Barbados,1,Male,284,20 to 54 years,2019,17.85546361,18.28052504,17.42061453
+Mean Age of Initiation,107,Barbados,2,Female,284,20 to 54 years,2019,19.35780335,20.05493794,18.71320228
+Mean Age of Initiation,108,Belize,1,Male,284,20 to 54 years,2019,18.28302894,18.7065047,17.85818966
+Mean Age of Initiation,108,Belize,2,Female,284,20 to 54 years,2019,19.33083396,19.9826765,18.67288325
+Mean Age of Initiation,109,Cuba,1,Male,284,20 to 54 years,2019,18.46262137,18.91944765,18.01351903
+Mean Age of Initiation,109,Cuba,2,Female,284,20 to 54 years,2019,19.45510117,20.10483295,18.81691113
+Mean Age of Initiation,110,Dominica,1,Male,284,20 to 54 years,2019,18.36092943,18.80143193,17.90368211
+Mean Age of Initiation,110,Dominica,2,Female,284,20 to 54 years,2019,19.26664658,19.97430211,18.60683862
+Mean Age of Initiation,111,Dominican Republic,1,Male,284,20 to 54 years,2019,18.40494143,18.84035155,17.92953721
+Mean Age of Initiation,111,Dominican Republic,2,Female,284,20 to 54 years,2019,19.41831195,20.04826476,18.78109164
+Mean Age of Initiation,112,Grenada,1,Male,284,20 to 54 years,2019,18.36546588,18.81049793,17.94771695
+Mean Age of Initiation,112,Grenada,2,Female,284,20 to 54 years,2019,19.35559355,19.98488092,18.71103104
+Mean Age of Initiation,113,Guyana,1,Male,284,20 to 54 years,2019,18.26203335,18.72121311,17.86590613
+Mean Age of Initiation,113,Guyana,2,Female,284,20 to 54 years,2019,19.32859601,19.95886654,18.67702462
+Mean Age of Initiation,114,Haiti,1,Male,284,20 to 54 years,2019,18.37757547,18.81225366,17.96848388
+Mean Age of Initiation,114,Haiti,2,Female,284,20 to 54 years,2019,19.35079365,19.99281884,18.72119743
+Mean Age of Initiation,115,Jamaica,1,Male,284,20 to 54 years,2019,18.3502185,18.79708632,17.90209054
+Mean Age of Initiation,115,Jamaica,2,Female,284,20 to 54 years,2019,19.33165226,19.96779397,18.75098104
+Mean Age of Initiation,116,Saint Lucia,1,Male,284,20 to 54 years,2019,18.36537378,18.80695295,17.91528511
+Mean Age of Initiation,116,Saint Lucia,2,Female,284,20 to 54 years,2019,19.3297738,19.94560597,18.70744492
+Mean Age of Initiation,117,Saint Vincent and the Grenadines,1,Male,284,20 to 54 years,2019,18.3360919,18.73593909,17.92618802
+Mean Age of Initiation,117,Saint Vincent and the Grenadines,2,Female,284,20 to 54 years,2019,19.34952245,20.02519834,18.72361935
+Mean Age of Initiation,118,Suriname,1,Male,284,20 to 54 years,2019,18.33286503,18.77227032,17.89725328
+Mean Age of Initiation,118,Suriname,2,Female,284,20 to 54 years,2019,19.376797,20.06546015,18.74713682
+Mean Age of Initiation,119,Trinidad and Tobago,1,Male,284,20 to 54 years,2019,18.35178537,18.77584044,17.94761074
+Mean Age of Initiation,119,Trinidad and Tobago,2,Female,284,20 to 54 years,2019,19.37086367,20.02004652,18.69604656
+Mean Age of Initiation,121,Bolivia (Plurinational State of),1,Male,284,20 to 54 years,2019,17.33597375,17.73563582,16.95287825
+Mean Age of Initiation,121,Bolivia (Plurinational State of),2,Female,284,20 to 54 years,2019,19.1382434,19.85625887,18.43890082
+Mean Age of Initiation,122,Ecuador,1,Male,284,20 to 54 years,2019,17.17909819,17.61415757,16.77568414
+Mean Age of Initiation,122,Ecuador,2,Female,284,20 to 54 years,2019,18.73062323,19.39653959,18.10523542
+Mean Age of Initiation,123,Peru,1,Male,284,20 to 54 years,2019,17.21030345,17.64001015,16.78737079
+Mean Age of Initiation,123,Peru,2,Female,284,20 to 54 years,2019,18.57131849,19.24016506,17.85092784
+Mean Age of Initiation,125,Colombia,1,Male,284,20 to 54 years,2019,17.00546124,17.37858816,16.60369779
+Mean Age of Initiation,125,Colombia,2,Female,284,20 to 54 years,2019,19.63028386,20.34968639,18.91230635
+Mean Age of Initiation,126,Costa Rica,1,Male,284,20 to 54 years,2019,16.52456413,16.90312256,16.11225649
+Mean Age of Initiation,126,Costa Rica,2,Female,284,20 to 54 years,2019,18.91405625,19.65004975,18.21209194
+Mean Age of Initiation,127,El Salvador,1,Male,284,20 to 54 years,2019,16.94967251,17.39083214,16.53194353
+Mean Age of Initiation,127,El Salvador,2,Female,284,20 to 54 years,2019,19.46080614,20.28985956,18.55274599
+Mean Age of Initiation,128,Guatemala,1,Male,284,20 to 54 years,2019,16.81041366,17.24784057,16.38377555
+Mean Age of Initiation,128,Guatemala,2,Female,284,20 to 54 years,2019,19.16044829,20.03354745,18.33871157
+Mean Age of Initiation,129,Honduras,1,Male,284,20 to 54 years,2019,16.87352535,17.29052086,16.4609062
+Mean Age of Initiation,129,Honduras,2,Female,284,20 to 54 years,2019,19.32954944,20.14056995,18.5197931
+Mean Age of Initiation,130,Mexico,1,Male,284,20 to 54 years,2019,16.94861096,17.26963393,16.6229049
+Mean Age of Initiation,130,Mexico,2,Female,284,20 to 54 years,2019,18.89944509,19.38747376,18.39151041
+Mean Age of Initiation,131,Nicaragua,1,Male,284,20 to 54 years,2019,16.98053578,17.42829901,16.56085892
+Mean Age of Initiation,131,Nicaragua,2,Female,284,20 to 54 years,2019,19.40156322,20.23108424,18.61054397
+Mean Age of Initiation,132,Panama,1,Male,284,20 to 54 years,2019,17.0929368,17.51581901,16.69914871
+Mean Age of Initiation,132,Panama,2,Female,284,20 to 54 years,2019,19.00207413,19.83172654,18.13323755
+Mean Age of Initiation,133,Venezuela (Bolivarian Republic of),1,Male,284,20 to 54 years,2019,17.08990456,17.52650199,16.68416546
+Mean Age of Initiation,133,Venezuela (Bolivarian Republic of),2,Female,284,20 to 54 years,2019,19.4501428,20.17032412,18.74112166
+Mean Age of Initiation,135,Brazil,1,Male,284,20 to 54 years,2019,17.43474996,17.76916511,17.11959752
+Mean Age of Initiation,135,Brazil,2,Female,284,20 to 54 years,2019,17.57051968,17.98669537,17.17871575
+Mean Age of Initiation,136,Paraguay,1,Male,284,20 to 54 years,2019,17.34264625,17.77838909,16.93281459
+Mean Age of Initiation,136,Paraguay,2,Female,284,20 to 54 years,2019,17.44830266,18.06035279,16.82278245
+Mean Age of Initiation,137,North Africa and Middle East,1,Male,284,20 to 54 years,2019,18.12723036,18.25927802,17.99865782
+Mean Age of Initiation,137,North Africa and Middle East,2,Female,284,20 to 54 years,2019,21.39982737,21.79865846,21.0551329
+Mean Age of Initiation,139,Algeria,1,Male,284,20 to 54 years,2019,18.3839011,18.79030679,17.94973542
+Mean Age of Initiation,139,Algeria,2,Female,284,20 to 54 years,2019,22.64735525,23.65234634,21.64286319
+Mean Age of Initiation,140,Bahrain,1,Male,284,20 to 54 years,2019,18.60330577,19.11280367,18.12538072
+Mean Age of Initiation,140,Bahrain,2,Female,284,20 to 54 years,2019,23.17827907,24.22198504,22.20418309
+Mean Age of Initiation,141,Egypt,1,Male,284,20 to 54 years,2019,17.94252706,18.29316765,17.5974316
+Mean Age of Initiation,141,Egypt,2,Female,284,20 to 54 years,2019,22.4008668,23.51667581,21.47534308
+Mean Age of Initiation,142,Iran (Islamic Republic of),1,Male,284,20 to 54 years,2019,18.52903263,19.00989102,18.08334801
+Mean Age of Initiation,142,Iran (Islamic Republic of),2,Female,284,20 to 54 years,2019,23.00499835,23.90972144,22.0670756
+Mean Age of Initiation,143,Iraq,1,Male,284,20 to 54 years,2019,18.33799077,18.81124917,17.87444852
+Mean Age of Initiation,143,Iraq,2,Female,284,20 to 54 years,2019,23.24616193,24.23304842,22.29328822
+Mean Age of Initiation,144,Jordan,1,Male,284,20 to 54 years,2019,18.40398696,18.82000678,18.00787741
+Mean Age of Initiation,144,Jordan,2,Female,284,20 to 54 years,2019,24.07234019,25.00861897,23.0909463
+Mean Age of Initiation,145,Kuwait,1,Male,284,20 to 54 years,2019,18.4273939,18.89648902,17.96422535
+Mean Age of Initiation,145,Kuwait,2,Female,284,20 to 54 years,2019,22.54221428,23.4371428,21.6064136
+Mean Age of Initiation,146,Lebanon,1,Male,284,20 to 54 years,2019,18.42750607,18.86718557,17.983318
+Mean Age of Initiation,146,Lebanon,2,Female,284,20 to 54 years,2019,23.2186105,24.0675368,22.43729861
+Mean Age of Initiation,147,Libya,1,Male,284,20 to 54 years,2019,19.21154404,19.63092198,18.81329497
+Mean Age of Initiation,147,Libya,2,Female,284,20 to 54 years,2019,22.29955382,23.40597831,21.23256504
+Mean Age of Initiation,148,Morocco,1,Male,284,20 to 54 years,2019,18.44311886,18.8912242,18.01592045
+Mean Age of Initiation,148,Morocco,2,Female,284,20 to 54 years,2019,22.64715485,23.6738283,21.58453816
+Mean Age of Initiation,149,Palestine,1,Male,284,20 to 54 years,2019,18.93529111,19.28765009,18.58716768
+Mean Age of Initiation,149,Palestine,2,Female,284,20 to 54 years,2019,24.35889269,25.43229859,23.39678345
+Mean Age of Initiation,150,Oman,1,Male,284,20 to 54 years,2019,18.351202,18.8086706,17.88133549
+Mean Age of Initiation,150,Oman,2,Female,284,20 to 54 years,2019,22.33321375,23.37784244,21.27354239
+Mean Age of Initiation,151,Qatar,1,Male,284,20 to 54 years,2019,18.29877069,18.74627633,17.8431085
+Mean Age of Initiation,151,Qatar,2,Female,284,20 to 54 years,2019,22.7415263,23.66236794,21.83108541
+Mean Age of Initiation,152,Saudi Arabia,1,Male,284,20 to 54 years,2019,18.35301417,18.8047202,17.92212491
+Mean Age of Initiation,152,Saudi Arabia,2,Female,284,20 to 54 years,2019,22.54855456,23.55269581,21.53519371
+Mean Age of Initiation,153,Syrian Arab Republic,1,Male,284,20 to 54 years,2019,18.47546053,18.91392836,18.02267502
+Mean Age of Initiation,153,Syrian Arab Republic,2,Female,284,20 to 54 years,2019,22.87444252,23.9087262,21.79549394
+Mean Age of Initiation,154,Tunisia,1,Male,284,20 to 54 years,2019,18.4067334,18.85075923,17.97924568
+Mean Age of Initiation,154,Tunisia,2,Female,284,20 to 54 years,2019,23.05597383,24.1159252,22.02688518
+Mean Age of Initiation,155,Turkey,1,Male,284,20 to 54 years,2019,17.33300029,17.69776359,16.97930858
+Mean Age of Initiation,155,Turkey,2,Female,284,20 to 54 years,2019,19.99761147,20.61133928,19.43775504
+Mean Age of Initiation,156,United Arab Emirates,1,Male,284,20 to 54 years,2019,18.63002742,19.19711811,18.10293769
+Mean Age of Initiation,156,United Arab Emirates,2,Female,284,20 to 54 years,2019,22.95222689,23.95400871,22.00141279
+Mean Age of Initiation,157,Yemen,1,Male,284,20 to 54 years,2019,18.34112393,18.75466065,17.89963613
+Mean Age of Initiation,157,Yemen,2,Female,284,20 to 54 years,2019,22.54916702,23.41366982,21.69204558
+Mean Age of Initiation,158,South Asia,1,Male,284,20 to 54 years,2019,20.15380118,20.49239633,19.80801856
+Mean Age of Initiation,158,South Asia,2,Female,284,20 to 54 years,2019,22.4360294,23.43982983,21.45650989
+Mean Age of Initiation,160,Afghanistan,1,Male,284,20 to 54 years,2019,18.16745377,18.66384587,17.70103906
+Mean Age of Initiation,160,Afghanistan,2,Female,284,20 to 54 years,2019,22.06392205,23.13816282,20.99483894
+Mean Age of Initiation,161,Bangladesh,1,Male,284,20 to 54 years,2019,18.27987856,18.68461301,17.9062702
+Mean Age of Initiation,161,Bangladesh,2,Female,284,20 to 54 years,2019,26.28691038,27.95082495,24.7786003
+Mean Age of Initiation,162,Bhutan,1,Male,284,20 to 54 years,2019,19.86040524,20.40003672,19.34325668
+Mean Age of Initiation,162,Bhutan,2,Female,284,20 to 54 years,2019,22.22302527,23.49711757,20.97937221
+Mean Age of Initiation,163,India,1,Male,284,20 to 54 years,2019,20.60699554,21.06186259,20.12704636
+Mean Age of Initiation,163,India,2,Female,284,20 to 54 years,2019,22.12011453,23.44281196,20.88960384
+Mean Age of Initiation,164,Nepal,1,Male,284,20 to 54 years,2019,19.87685792,20.36525142,19.39076926
+Mean Age of Initiation,164,Nepal,2,Female,284,20 to 54 years,2019,23.50723279,24.6792476,22.46368541
+Mean Age of Initiation,165,Pakistan,1,Male,284,20 to 54 years,2019,20.03541648,20.53961703,19.543833
+Mean Age of Initiation,165,Pakistan,2,Female,284,20 to 54 years,2019,22.07018733,23.32182417,20.7744921
+Mean Age of Initiation,166,Sub-Saharan Africa,1,Male,284,20 to 54 years,2019,20.02708104,20.13627843,19.92228622
+Mean Age of Initiation,166,Sub-Saharan Africa,2,Female,284,20 to 54 years,2019,21.16651305,21.43433815,20.92765749
+Mean Age of Initiation,168,Angola,1,Male,284,20 to 54 years,2019,20.08259344,20.54772097,19.6075503
+Mean Age of Initiation,168,Angola,2,Female,284,20 to 54 years,2019,21.40153082,22.3493072,20.53166387
+Mean Age of Initiation,169,Central African Republic,1,Male,284,20 to 54 years,2019,19.97285784,20.47445695,19.45328988
+Mean Age of Initiation,169,Central African Republic,2,Female,284,20 to 54 years,2019,21.07819526,22.12273734,20.18410125
+Mean Age of Initiation,170,Congo,1,Male,284,20 to 54 years,2019,20.10144056,20.62573944,19.57654833
+Mean Age of Initiation,170,Congo,2,Female,284,20 to 54 years,2019,21.44119987,22.4039418,20.60513979
+Mean Age of Initiation,171,Democratic Republic of the Congo,1,Male,284,20 to 54 years,2019,19.94056449,20.4110069,19.45576121
+Mean Age of Initiation,171,Democratic Republic of the Congo,2,Female,284,20 to 54 years,2019,21.28305525,22.20376559,20.39720647
+Mean Age of Initiation,172,Equatorial Guinea,1,Male,284,20 to 54 years,2019,19.58307022,20.10442652,19.08152084
+Mean Age of Initiation,172,Equatorial Guinea,2,Female,284,20 to 54 years,2019,20.89213634,21.85062678,20.00805892
+Mean Age of Initiation,173,Gabon,1,Male,284,20 to 54 years,2019,19.82524657,20.31779595,19.34070571
+Mean Age of Initiation,173,Gabon,2,Female,284,20 to 54 years,2019,20.62954801,21.55646045,19.80400256
+Mean Age of Initiation,175,Burundi,1,Male,284,20 to 54 years,2019,20.54098536,21.04674104,20.06004095
+Mean Age of Initiation,175,Burundi,2,Female,284,20 to 54 years,2019,22.13718284,23.0020349,21.30860875
+Mean Age of Initiation,176,Comoros,1,Male,284,20 to 54 years,2019,18.51248792,18.94168125,18.07823044
+Mean Age of Initiation,176,Comoros,2,Female,284,20 to 54 years,2019,20.23086901,20.9919687,19.48784608
+Mean Age of Initiation,177,Djibouti,1,Male,284,20 to 54 years,2019,20.53000763,21.01157511,20.03745162
+Mean Age of Initiation,177,Djibouti,2,Female,284,20 to 54 years,2019,21.82904582,22.75768898,20.87605378
+Mean Age of Initiation,178,Eritrea,1,Male,284,20 to 54 years,2019,19.9231597,20.46372618,19.42502193
+Mean Age of Initiation,178,Eritrea,2,Female,284,20 to 54 years,2019,21.13245554,22.10991344,20.12698086
+Mean Age of Initiation,179,Ethiopia,1,Male,284,20 to 54 years,2019,20.3519315,20.87909735,19.878852
+Mean Age of Initiation,179,Ethiopia,2,Female,284,20 to 54 years,2019,21.64644866,22.59274714,20.70800706
+Mean Age of Initiation,180,Kenya,1,Male,284,20 to 54 years,2019,20.65154046,21.10701642,20.20942945
+Mean Age of Initiation,180,Kenya,2,Female,284,20 to 54 years,2019,21.47030791,22.4644445,20.471853
+Mean Age of Initiation,181,Madagascar,1,Male,284,20 to 54 years,2019,20.03736743,20.533829,19.53292614
+Mean Age of Initiation,181,Madagascar,2,Female,284,20 to 54 years,2019,21.8660335,22.85850293,20.93670667
+Mean Age of Initiation,182,Malawi,1,Male,284,20 to 54 years,2019,21.36867487,21.87929968,20.88862912
+Mean Age of Initiation,182,Malawi,2,Female,284,20 to 54 years,2019,24.30422101,25.24694837,23.33006579
+Mean Age of Initiation,183,Mauritius,1,Male,284,20 to 54 years,2019,18.57121461,18.98613272,18.1518065
+Mean Age of Initiation,183,Mauritius,2,Female,284,20 to 54 years,2019,22.15486232,23.23721639,21.13651162
+Mean Age of Initiation,184,Mozambique,1,Male,284,20 to 54 years,2019,21.49746605,22.01448827,20.99448699
+Mean Age of Initiation,184,Mozambique,2,Female,284,20 to 54 years,2019,21.66312036,22.48202547,20.8719364
+Mean Age of Initiation,185,Rwanda,1,Male,284,20 to 54 years,2019,20.45279965,20.93812657,19.97517449
+Mean Age of Initiation,185,Rwanda,2,Female,284,20 to 54 years,2019,22.76768344,23.78720357,21.88767803
+Mean Age of Initiation,186,Seychelles,1,Male,284,20 to 54 years,2019,19.21657028,19.65595236,18.79152458
+Mean Age of Initiation,186,Seychelles,2,Female,284,20 to 54 years,2019,21.93103827,23.01491975,20.97572232
+Mean Age of Initiation,187,Somalia,1,Male,284,20 to 54 years,2019,20.24497003,20.7662265,19.73395632
+Mean Age of Initiation,187,Somalia,2,Female,284,20 to 54 years,2019,21.90300311,22.91312673,20.99151746
+Mean Age of Initiation,189,United Republic of Tanzania,1,Male,284,20 to 54 years,2019,20.42047016,20.92396849,19.93953671
+Mean Age of Initiation,189,United Republic of Tanzania,2,Female,284,20 to 54 years,2019,21.85118718,22.94265026,20.8550808
+Mean Age of Initiation,190,Uganda,1,Male,284,20 to 54 years,2019,20.42826468,20.93139852,19.96614194
+Mean Age of Initiation,190,Uganda,2,Female,284,20 to 54 years,2019,22.03624216,22.95536631,21.15061042
+Mean Age of Initiation,191,Zambia,1,Male,284,20 to 54 years,2019,20.33849959,20.81481718,19.88159083
+Mean Age of Initiation,191,Zambia,2,Female,284,20 to 54 years,2019,21.28017715,22.3230925,20.29354377
+Mean Age of Initiation,193,Botswana,1,Male,284,20 to 54 years,2019,21.2805734,21.7892302,20.7984495
+Mean Age of Initiation,193,Botswana,2,Female,284,20 to 54 years,2019,26.76136912,27.98400951,25.60099249
+Mean Age of Initiation,194,Lesotho,1,Male,284,20 to 54 years,2019,19.47088478,19.94359892,18.99265073
+Mean Age of Initiation,194,Lesotho,2,Female,284,20 to 54 years,2019,21.70149574,22.97492342,20.53551995
+Mean Age of Initiation,195,Namibia,1,Male,284,20 to 54 years,2019,19.79231867,20.21849186,19.34337764
+Mean Age of Initiation,195,Namibia,2,Female,284,20 to 54 years,2019,22.47993252,23.43806143,21.50278147
+Mean Age of Initiation,196,South Africa,1,Male,284,20 to 54 years,2019,18.7677037,19.12051401,18.41578173
+Mean Age of Initiation,196,South Africa,2,Female,284,20 to 54 years,2019,18.53057829,19.02007204,18.0178609
+Mean Age of Initiation,197,Eswatini,1,Male,284,20 to 54 years,2019,19.60374965,20.08688577,19.13911044
+Mean Age of Initiation,197,Eswatini,2,Female,284,20 to 54 years,2019,21.49854609,22.55912287,20.54336942
+Mean Age of Initiation,198,Zimbabwe,1,Male,284,20 to 54 years,2019,19.68039901,20.14339722,19.23148347
+Mean Age of Initiation,198,Zimbabwe,2,Female,284,20 to 54 years,2019,21.75169306,22.89286776,20.67271524
+Mean Age of Initiation,200,Benin,1,Male,284,20 to 54 years,2019,21.39612334,21.95032921,20.8600724
+Mean Age of Initiation,200,Benin,2,Female,284,20 to 54 years,2019,23.47233356,24.67170504,22.24870216
+Mean Age of Initiation,201,Burkina Faso,1,Male,284,20 to 54 years,2019,20.14845369,20.68993753,19.61890467
+Mean Age of Initiation,201,Burkina Faso,2,Female,284,20 to 54 years,2019,21.54040094,22.4963934,20.47887032
+Mean Age of Initiation,202,Cameroon,1,Male,284,20 to 54 years,2019,20.19360785,20.67092856,19.72834866
+Mean Age of Initiation,202,Cameroon,2,Female,284,20 to 54 years,2019,21.73332373,22.7778509,20.80667556
+Mean Age of Initiation,203,Cabo Verde,1,Male,284,20 to 54 years,2019,19.05414346,19.51726256,18.6141087
+Mean Age of Initiation,203,Cabo Verde,2,Female,284,20 to 54 years,2019,22.68528966,23.66702185,21.73546638
+Mean Age of Initiation,204,Chad,1,Male,284,20 to 54 years,2019,20.24820656,20.74408188,19.7626508
+Mean Age of Initiation,204,Chad,2,Female,284,20 to 54 years,2019,21.60178287,22.59188572,20.66519378
+Mean Age of Initiation,205,Côte d'Ivoire,1,Male,284,20 to 54 years,2019,20.22185018,20.77376055,19.72208188
+Mean Age of Initiation,205,Côte d'Ivoire,2,Female,284,20 to 54 years,2019,21.86031059,22.80575967,20.93591499
+Mean Age of Initiation,206,Gambia,1,Male,284,20 to 54 years,2019,19.58784381,20.04682194,19.13495483
+Mean Age of Initiation,206,Gambia,2,Female,284,20 to 54 years,2019,22.24707147,23.31587703,21.24934948
+Mean Age of Initiation,207,Ghana,1,Male,284,20 to 54 years,2019,20.86819004,21.44178986,20.34932926
+Mean Age of Initiation,207,Ghana,2,Female,284,20 to 54 years,2019,22.15518407,23.15665717,21.20609321
+Mean Age of Initiation,208,Guinea,1,Male,284,20 to 54 years,2019,20.33038142,20.82977157,19.79724352
+Mean Age of Initiation,208,Guinea,2,Female,284,20 to 54 years,2019,21.88614894,22.88717136,20.88302778
+Mean Age of Initiation,209,Guinea-Bissau,1,Male,284,20 to 54 years,2019,20.29530357,20.8445952,19.75389508
+Mean Age of Initiation,209,Guinea-Bissau,2,Female,284,20 to 54 years,2019,22.02773381,23.07095896,21.04061251
+Mean Age of Initiation,210,Liberia,1,Male,284,20 to 54 years,2019,20.86942639,21.4077836,20.36265888
+Mean Age of Initiation,210,Liberia,2,Female,284,20 to 54 years,2019,22.12226108,23.14450097,21.15460096
+Mean Age of Initiation,211,Mali,1,Male,284,20 to 54 years,2019,20.23280582,20.73204292,19.74619948
+Mean Age of Initiation,211,Mali,2,Female,284,20 to 54 years,2019,23.22948659,24.51405278,22.11889345
+Mean Age of Initiation,212,Mauritania,1,Male,284,20 to 54 years,2019,20.10090178,20.63246476,19.56400895
+Mean Age of Initiation,212,Mauritania,2,Female,284,20 to 54 years,2019,21.7068452,22.61280059,20.87192214
+Mean Age of Initiation,213,Niger,1,Male,284,20 to 54 years,2019,19.79974056,20.26452214,19.3754862
+Mean Age of Initiation,213,Niger,2,Female,284,20 to 54 years,2019,21.62887737,22.70762005,20.62021728
+Mean Age of Initiation,214,Nigeria,1,Male,284,20 to 54 years,2019,19.47544545,19.95528552,18.99398083
+Mean Age of Initiation,214,Nigeria,2,Female,284,20 to 54 years,2019,22.78894298,24.01292635,21.69919703
+Mean Age of Initiation,215,Sao Tome and Principe,1,Male,284,20 to 54 years,2019,21.80479469,22.29550461,21.33699812
+Mean Age of Initiation,215,Sao Tome and Principe,2,Female,284,20 to 54 years,2019,20.94689543,21.68109208,20.22307309
+Mean Age of Initiation,216,Senegal,1,Male,284,20 to 54 years,2019,20.27893732,20.79616913,19.79498751
+Mean Age of Initiation,216,Senegal,2,Female,284,20 to 54 years,2019,22.01640771,23.11274753,20.97731578
+Mean Age of Initiation,217,Sierra Leone,1,Male,284,20 to 54 years,2019,20.08309297,20.54728765,19.66655058
+Mean Age of Initiation,217,Sierra Leone,2,Female,284,20 to 54 years,2019,22.33950772,23.21897741,21.46285457
+Mean Age of Initiation,218,Togo,1,Male,284,20 to 54 years,2019,22.48648676,23.05458228,21.95974931
+Mean Age of Initiation,218,Togo,2,Female,284,20 to 54 years,2019,22.75669709,23.99910864,21.59910613
+Mean Age of Initiation,298,American Samoa,1,Male,284,20 to 54 years,2019,19.46746673,19.95237467,19.02312402
+Mean Age of Initiation,298,American Samoa,2,Female,284,20 to 54 years,2019,21.13863127,22.06682376,20.22423582
+Mean Age of Initiation,305,Bermuda,1,Male,284,20 to 54 years,2019,18.4543947,18.89082579,18.02624972
+Mean Age of Initiation,305,Bermuda,2,Female,284,20 to 54 years,2019,19.42113991,20.05404439,18.7763938
+Mean Age of Initiation,320,Cook Islands,1,Male,284,20 to 54 years,2019,18.91328336,19.37308173,18.50705933
+Mean Age of Initiation,320,Cook Islands,2,Female,284,20 to 54 years,2019,19.41191569,20.09864343,18.7499367
+Mean Age of Initiation,349,Greenland,1,Male,284,20 to 54 years,2019,17.29679608,17.730747,16.90003505
+Mean Age of Initiation,349,Greenland,2,Female,284,20 to 54 years,2019,17.52034624,18.15704543,16.94298638
+Mean Age of Initiation,351,Guam,1,Male,284,20 to 54 years,2019,18.8498883,19.30611451,18.43079833
+Mean Age of Initiation,351,Guam,2,Female,284,20 to 54 years,2019,19.47903872,20.17113674,18.83269993
+Mean Age of Initiation,367,Monaco,1,Male,284,20 to 54 years,2019,16.84751299,17.29277806,16.4412672
+Mean Age of Initiation,367,Monaco,2,Female,284,20 to 54 years,2019,17.11757074,17.72889292,16.53868494
+Mean Age of Initiation,369,Nauru,1,Male,284,20 to 54 years,2019,16.83471207,17.21111509,16.45463472
+Mean Age of Initiation,369,Nauru,2,Female,284,20 to 54 years,2019,16.19215764,16.69313942,15.74030033
+Mean Age of Initiation,374,Niue,1,Male,284,20 to 54 years,2019,18.8772535,19.34007633,18.44202795
+Mean Age of Initiation,374,Niue,2,Female,284,20 to 54 years,2019,19.32369934,20.0139205,18.61970755
+Mean Age of Initiation,376,Northern Mariana Islands,1,Male,284,20 to 54 years,2019,19.00635038,19.46929642,18.53742616
+Mean Age of Initiation,376,Northern Mariana Islands,2,Female,284,20 to 54 years,2019,19.73067815,20.71627657,18.88510151
+Mean Age of Initiation,380,Palau,1,Male,284,20 to 54 years,2019,19.03212741,19.48871538,18.59413055
+Mean Age of Initiation,380,Palau,2,Female,284,20 to 54 years,2019,19.72183153,20.47445774,18.98279083
+Mean Age of Initiation,385,Puerto Rico,1,Male,284,20 to 54 years,2019,18.33616669,18.77804567,17.92908428
+Mean Age of Initiation,385,Puerto Rico,2,Female,284,20 to 54 years,2019,19.39265728,20.00051459,18.77465992
+Mean Age of Initiation,393,Saint Kitts and Nevis,1,Male,284,20 to 54 years,2019,16.17721028,16.56882546,15.79680306
+Mean Age of Initiation,393,Saint Kitts and Nevis,2,Female,284,20 to 54 years,2019,19.36583013,20.05296905,18.73951232
+Mean Age of Initiation,396,San Marino,1,Male,284,20 to 54 years,2019,16.82698691,17.23034486,16.44751452
+Mean Age of Initiation,396,San Marino,2,Female,284,20 to 54 years,2019,16.99163654,17.56998669,16.48719102
+Mean Age of Initiation,413,Tokelau,1,Male,284,20 to 54 years,2019,18.79872647,19.23339355,18.36704027
+Mean Age of Initiation,413,Tokelau,2,Female,284,20 to 54 years,2019,19.25822757,20.04758848,18.46999073
+Mean Age of Initiation,416,Tuvalu,1,Male,284,20 to 54 years,2019,18.6890868,19.14791185,18.24937908
+Mean Age of Initiation,416,Tuvalu,2,Female,284,20 to 54 years,2019,19.12414483,19.80396329,18.49462733
+Mean Age of Initiation,422,United States Virgin Islands,1,Male,284,20 to 54 years,2019,18.97232018,19.42573607,18.5140458
+Mean Age of Initiation,422,United States Virgin Islands,2,Female,284,20 to 54 years,2019,19.46050165,20.10769766,18.82962769
+Mean Age of Initiation,435,South Sudan,1,Male,284,20 to 54 years,2019,20.48853997,20.98137405,20.00079311
+Mean Age of Initiation,435,South Sudan,2,Female,284,20 to 54 years,2019,22.15926481,23.25992047,21.15895081
+Mean Age of Initiation,522,Sudan,1,Male,284,20 to 54 years,2019,18.23638856,18.70100027,17.77464128
+Mean Age of Initiation,522,Sudan,2,Female,284,20 to 54 years,2019,22.23652355,23.25536766,21.2433887
